@@ -1,5 +1,5 @@
 # Ear disease diagnosis service using ear endoscopy
-- 가정용 귀 내시경을 이용한 귀 질환 진단 서비스
+가정용 귀 내시경을 이용한 귀 질환 진단 서비스
 
 
 ## 📄 원페이퍼 보고서
