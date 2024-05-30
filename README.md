@@ -1,4 +1,4 @@
-# Ear disease diagnosis service using ear endoscopy
+# Ear Disease Diagnosis Service using Ear Endoscopy
 - 가정용 귀 내시경을 이용한 귀 질환 진단 서비스
 - Streamlit을 활용한 WebPage | [Ear_Disease_Diagnosis_Web_Page](https://github.com/ginam-Kim/Ear_Disease_Diagnosis_Web_Page)
 
